@@ -1,0 +1,19 @@
+# Build artifacts
+*.o
+*.elf
+*.iso
+iso/
+
+# Dependencies
+*.d
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
